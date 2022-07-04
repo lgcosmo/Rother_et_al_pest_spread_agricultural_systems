@@ -25,5 +25,4 @@ everything should work out of the box.
 
 - src: functions and data used in the analyses and numerical simulations of the model
 - scripts: scripts used to reproduce the analyses used in the manuscript
-- data: folder to save the outputs from the analyses
 
