@@ -38,7 +38,7 @@ function infest(;df::DataFrame, P::Array{Float64}, P_log::Array{Float64}, T_matr
     df[!,:P_out]=repeat([P_out], size(di, 2))
     df[!,:nsim]=repeat([sim], size(di, 2))
 
-    return di
+    return df
 
 end
 
